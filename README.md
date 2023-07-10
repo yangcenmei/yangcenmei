@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @yangcenmei
 - 👀 I’m interested in anything but anime
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me: mySpace
+- 🌱 I’m currently learning pygame
 
 <!---
 yangcenmei/yangcenmei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
